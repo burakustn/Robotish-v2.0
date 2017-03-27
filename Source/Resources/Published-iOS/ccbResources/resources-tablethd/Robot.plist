@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ccbResources/Robot/Barrel1 (0).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2363, 2957}, {178, 238}}</string>
+			<key>offset</key>
+			<string>{-5, -130}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{244, 260}, {178, 238}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel1 (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3771}, {294, 326}}</string>
+			<key>offset</key>
+			<string>{-18, -86}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{173, 172}, {294, 326}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel1 (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{789, 731}, {386, 498}}</string>
+			<key>offset</key>
+			<string>{-14, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{131, 0}, {386, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel1 (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3213, 1}, {576, 466}}</string>
+			<key>offset</key>
+			<string>{-25, -16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 32}, {576, 466}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel1 (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2625, 1}, {586, 498}}</string>
+			<key>offset</key>
+			<string>{-14, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{31, 0}, {586, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel1 (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1789, 945}, {178, 498}}</string>
+			<key>offset</key>
+			<string>{-5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{244, 0}, {178, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (0).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2183, 2957}, {178, 238}}</string>
+			<key>offset</key>
+			<string>{-5, -130}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{244, 260}, {178, 238}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1789, 731}, {212, 498}}</string>
+			<key>offset</key>
+			<string>{-12, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{220, 0}, {212, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3659, 2155}, {428, 456}}</string>
+			<key>offset</key>
+			<string>{10, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{134, 42}, {428, 456}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2035, 1}, {588, 498}}</string>
+			<key>offset</key>
+			<string>{7, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{51, 0}, {588, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {676, 498}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {676, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{679, 1}, {676, 498}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {676, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1357, 1}, {676, 498}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {676, 498}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Barrel2 (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3213, 469}, {558, 324}}</string>
+			<key>offset</key>
+			<string>{49, -87}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{108, 174}, {558, 324}}</string>
+			<key>sourceSize</key>
+			<string>{676, 498}</string>
+		</dict>
+		<key>ccbResources/Robot/Bullet_000.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1711, 3109}, {170, 139}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 139}}</string>
+			<key>sourceSize</key>
+			<string>{172, 139}</string>
+		</dict>
+		<key>ccbResources/Robot/Bullet_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1852, 3109}, {170, 139}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 139}}</string>
+			<key>sourceSize</key>
+			<string>{172, 139}</string>
+		</dict>
+		<key>ccbResources/Robot/Bullet_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{339, 795}, {172, 139}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {172, 139}}</string>
+			<key>sourceSize</key>
+			<string>{172, 139}</string>
+		</dict>
+		<key>ccbResources/Robot/Bullet_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{513, 791}, {172, 139}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {172, 139}}</string>
+			<key>sourceSize</key>
+			<string>{172, 139}</string>
+		</dict>
+		<key>ccbResources/Robot/Bullet_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1993, 3109}, {172, 130}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {172, 130}}</string>
+			<key>sourceSize</key>
+			<string>{172, 139}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{779, 3011}, {282, 462}}</string>
+			<key>offset</key>
+			<string>{-115, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{25, 30}, {282, 462}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (10).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1301, 501}, {510, 228}}</string>
+			<key>offset</key>
+			<string>{-2, -124}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{24, 269}, {510, 228}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2861}, {330, 464}}</string>
+			<key>offset</key>
+			<string>{-92, -27}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{24, 54}, {330, 464}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1243, 3281}, {368, 398}}</string>
+			<key>offset</key>
+			<string>{-67, -28}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 88}, {368, 398}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2651, 2725}, {420, 356}}</string>
+			<key>offset</key>
+			<string>{-51, -51}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 132}, {420, 356}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1745, 1779}, {468, 312}}</string>
+			<key>offset</key>
+			<string>{-42, -71}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 174}, {468, 312}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3209, 795}, {500, 280}}</string>
+			<key>offset</key>
+			<string>{-30, -96}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 215}, {500, 280}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2325, 501}, {506, 244}}</string>
+			<key>offset</key>
+			<string>{-8, -117}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 254}, {506, 244}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1813, 501}, {510, 228}}</string>
+			<key>offset</key>
+			<string>{-2, -124}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{24, 269}, {510, 228}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Dead (9).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{789, 501}, {510, 228}}</string>
+			<key>offset</key>
+			<string>{-2, -124}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{24, 269}, {510, 228}}</string>
+			<key>sourceSize</key>
+			<string>{562, 519}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (10).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1257, 2071}, {274, 468}}</string>
+			<key>offset</key>
+			<string>{-19, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 54}, {274, 468}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1251, 2347}, {274, 466}}</string>
+			<key>offset</key>
+			<string>{-19, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 55}, {274, 466}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2663, 2173}, {274, 466}}</string>
+			<key>offset</key>
+			<string>{-19, -11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 56}, {274, 466}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3131, 2439}, {274, 464}}</string>
+			<key>offset</key>
+			<string>{-19, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 58}, {274, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2185, 2681}, {274, 464}}</string>
+			<key>offset</key>
+			<string>{-19, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 58}, {274, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2663, 2449}, {274, 464}}</string>
+			<key>offset</key>
+			<string>{-19, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 58}, {274, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1717, 2833}, {274, 464}}</string>
+			<key>offset</key>
+			<string>{-19, -11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 57}, {274, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2195, 2129}, {274, 466}}</string>
+			<key>offset</key>
+			<string>{-19, -11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 56}, {274, 466}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Idle (9).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2195, 2405}, {274, 466}}</string>
+			<key>offset</key>
+			<string>{-19, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 55}, {274, 466}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1247, 2993}, {286, 462}}</string>
+			<key>offset</key>
+			<string>{21, -19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{161, 66}, {286, 462}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (10).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{789, 1119}, {328, 494}}</string>
+			<key>offset</key>
+			<string>{17, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{136, 60}, {328, 494}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{787, 1449}, {326, 482}}</string>
+			<key>offset</key>
+			<string>{11, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{131, 59}, {326, 482}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1839, 3643}, {340, 450}}</string>
+			<key>offset</key>
+			<string>{-17, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{96, 57}, {340, 450}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 2868}, {342, 444}}</string>
+			<key>offset</key>
+			<string>{-22, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{90, 57}, {342, 444}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2403, 3197}, {352, 428}}</string>
+			<key>offset</key>
+			<string>{-24, 6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{83, 58}, {352, 428}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3683, 1773}, {380, 412}}</string>
+			<key>offset</key>
+			<string>{-16, 14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{77, 58}, {380, 412}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3711, 939}, {384, 474}}</string>
+			<key>offset</key>
+			<string>{-21, -17}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{70, 58}, {384, 474}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1271, 1685}, {384, 472}}</string>
+			<key>offset</key>
+			<string>{-28, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{63, 58}, {384, 472}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Jump (9).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1289, 731}, {354, 498}}</string>
+			<key>offset</key>
+			<string>{-8, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{98, 58}, {354, 498}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 501}, {316, 434}}</string>
+			<key>offset</key>
+			<string>{-7, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{118, 70}, {316, 434}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3327}, {330, 442}}</string>
+			<key>offset</key>
+			<string>{-1, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{117, 60}, {330, 442}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 1304}, {416, 444}}</string>
+			<key>offset</key>
+			<string>{19, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{94, 57}, {416, 444}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{783, 2237}, {466, 442}}</string>
+			<key>offset</key>
+			<string>{23, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{73, 57}, {466, 442}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 3212}, {438, 442}}</string>
+			<key>offset</key>
+			<string>{6, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{70, 57}, {438, 442}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1067, 3651}, {408, 440}}</string>
+			<key>offset</key>
+			<string>{-13, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{66, 56}, {408, 440}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 3652}, {362, 442}}</string>
+			<key>offset</key>
+			<string>{2, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{104, 58}, {362, 442}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpMelee (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1477, 3651}, {360, 440}}</string>
+			<key>offset</key>
+			<string>{12, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{115, 62}, {360, 440}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpShoot (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 936}, {366, 446}}</string>
+			<key>offset</key>
+			<string>{2, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{102, 58}, {366, 446}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpShoot (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2181, 3643}, {358, 440}}</string>
+			<key>offset</key>
+			<string>{-16, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{88, 58}, {358, 440}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpShoot (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 3652}, {368, 442}}</string>
+			<key>offset</key>
+			<string>{-22, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{77, 58}, {368, 442}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpShoot (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{335, 2506}, {360, 444}}</string>
+			<key>offset</key>
+			<string>{-18, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{85, 58}, {360, 444}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/JumpShoot (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{337, 2138}, {366, 444}}</string>
+			<key>offset</key>
+			<string>{-6, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{94, 58}, {366, 444}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 501}, {288, 468}}</string>
+			<key>offset</key>
+			<string>{-26, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{113, 54}, {288, 468}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2541, 3627}, {350, 424}}</string>
+			<key>offset</key>
+			<string>{19, -30}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{127, 96}, {350, 424}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{339, 1722}, {414, 444}}</string>
+			<key>offset</key>
+			<string>{51, -19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 75}, {414, 444}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{785, 1777}, {470, 458}}</string>
+			<key>offset</key>
+			<string>{37, -12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{85, 61}, {470, 458}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1719, 2423}, {408, 464}}</string>
+			<key>offset</key>
+			<string>{-14, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{65, 56}, {408, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 939}, {338, 510}}</string>
+			<key>offset</key>
+			<string>{-64, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 10}, {338, 510}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3773, 479}, {320, 458}}</string>
+			<key>offset</key>
+			<string>{-55, -12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{68, 61}, {320, 458}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Melee (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1451}, {336, 470}}</string>
+			<key>offset</key>
+			<string>{0, -12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{115, 55}, {336, 470}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Muzzle_000.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3711, 795}, {19, 110}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 58}, {19, 110}}</string>
+			<key>sourceSize</key>
+			<string>{19, 241}</string>
+		</dict>
+		<key>ccbResources/Robot/Muzzle_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3732, 795}, {19, 110}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 58}, {19, 110}}</string>
+			<key>sourceSize</key>
+			<string>{19, 241}</string>
+		</dict>
+		<key>ccbResources/Robot/Muzzle_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 795}, {18, 140}}</string>
+			<key>offset</key>
+			<string>{0, 5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 45}, {18, 140}}</string>
+			<key>sourceSize</key>
+			<string>{19, 241}</string>
+		</dict>
+		<key>ccbResources/Robot/Muzzle_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2289, 974}, {18, 178}}</string>
+			<key>offset</key>
+			<string>{1, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 30}, {18, 178}}</string>
+			<key>sourceSize</key>
+			<string>{19, 241}</string>
+		</dict>
+		<key>ccbResources/Robot/Muzzle_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2289, 731}, {19, 241}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 241}}</string>
+			<key>sourceSize</key>
+			<string>{19, 241}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1285, 1425}, {258, 484}}</string>
+			<key>offset</key>
+			<string>{-7, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{147, 54}, {258, 484}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2309, 1111}, {254, 492}}</string>
+			<key>offset</key>
+			<string>{-35, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{121, 54}, {254, 492}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{781, 2681}, {328, 464}}</string>
+			<key>offset</key>
+			<string>{-7, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{112, 55}, {328, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1771, 1467}, {310, 474}}</string>
+			<key>offset</key>
+			<string>{-32, -13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{96, 54}, {310, 474}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3791, 1}, {296, 476}}</string>
+			<key>offset</key>
+			<string>{-1, -14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{134, 54}, {296, 476}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1289, 1087}, {336, 496}}</string>
+			<key>offset</key>
+			<string>{-6, -24}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{109, 54}, {336, 496}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2247, 1761}, {366, 470}}</string>
+			<key>offset</key>
+			<string>{-22, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{78, 55}, {366, 470}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Run (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3205, 1437}, {314, 478}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{129, 54}, {314, 478}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1787, 1125}, {340, 484}}</string>
+			<key>offset</key>
+			<string>{34, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{147, 54}, {340, 484}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2310, 747}, {362, 492}}</string>
+			<key>offset</key>
+			<string>{19, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{121, 54}, {362, 492}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1251, 2623}, {368, 464}}</string>
+			<key>offset</key>
+			<string>{13, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{112, 55}, {368, 464}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2273, 1367}, {392, 474}}</string>
+			<key>offset</key>
+			<string>{9, -13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{96, 54}, {392, 474}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3205, 1753}, {354, 476}}</string>
+			<key>offset</key>
+			<string>{28, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{134, 54}, {354, 476}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2833, 501}, {374, 496}}</string>
+			<key>offset</key>
+			<string>{13, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{109, 54}, {374, 496}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2803, 1359}, {400, 470}}</string>
+			<key>offset</key>
+			<string>{-5, -12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{78, 55}, {400, 470}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3208, 1077}, {358, 478}}</string>
+			<key>offset</key>
+			<string>{25, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{129, 54}, {358, 478}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/RunShoot (9).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2719, 1831}, {340, 468}}</string>
+			<key>offset</key>
+			<string>{14, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127, 53}, {340, 468}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Shoot (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2393}, {332, 466}}</string>
+			<key>offset</key>
+			<string>{-8, -8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{109, 53}, {332, 466}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Shoot (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1727, 2093}, {328, 466}}</string>
+			<key>offset</key>
+			<string>{-20, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{99, 54}, {328, 466}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Shoot (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3189, 2109}, {328, 468}}</string>
+			<key>offset</key>
+			<string>{-1, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{118, 53}, {328, 468}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Shoot (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1923}, {334, 468}}</string>
+			<key>offset</key>
+			<string>{9, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{125, 53}, {334, 468}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (1).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{777, 3295}, {408, 354}}</string>
+			<key>offset</key>
+			<string>{-47, -70}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{32, 171}, {408, 354}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (10).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3688, 1415}, {406, 356}}</string>
+			<key>offset</key>
+			<string>{-46, -70}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 170}, {406, 356}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (2).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3009, 2725}, {404, 356}}</string>
+			<key>offset</key>
+			<string>{-46, -69}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{35, 169}, {404, 356}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (3).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2804, 999}, {402, 358}}</string>
+			<key>offset</key>
+			<string>{-44, -68}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 167}, {402, 358}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (4).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3597, 2613}, {398, 360}}</string>
+			<key>offset</key>
+			<string>{-43, -68}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{41, 166}, {398, 360}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (5).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1643, 3281}, {398, 360}}</string>
+			<key>offset</key>
+			<string>{-43, -68}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{41, 166}, {398, 360}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (6).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3115, 3131}, {398, 358}}</string>
+			<key>offset</key>
+			<string>{-43, -68}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{41, 167}, {398, 358}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (7).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2893, 3553}, {398, 358}}</string>
+			<key>offset</key>
+			<string>{-43, -68}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{41, 167}, {398, 358}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (8).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2043, 3241}, {400, 358}}</string>
+			<key>offset</key>
+			<string>{-44, -69}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 168}, {400, 358}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+		<key>ccbResources/Robot/Slide (9).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2757, 3147}, {404, 356}}</string>
+			<key>offset</key>
+			<string>{-45, -69}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{36, 169}, {404, 356}}</string>
+			<key>sourceSize</key>
+			<string>{567, 556}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>Robot.png</string>
+	</dict>
+</dict>
+</plist>
