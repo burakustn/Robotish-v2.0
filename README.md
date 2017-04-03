@@ -1,4 +1,6 @@
-# RobotishV2
+# Team Invoke Presents
+## Robotish
+
 Sakarya University 2016 Graduation Project
 A platformer game developed with Objective-C and Cocos2d
 
